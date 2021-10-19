@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AtletasApplicationTests" project="atletas" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="atletas.AtletasApplicationTests" time="0.774" displayname="AtletasApplicationTests" uniqueid="[engine:junit-jupiter]/[class:atletas.AtletasApplicationTests]">
+    <testcase name="contextLoads" classname="atletas.AtletasApplicationTests" time="0.532" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:atletas.AtletasApplicationTests]/[method:contextLoads()]"/>
+    <testcase name="crearUsuario" classname="atletas.AtletasApplicationTests" time="0.241" displayname="crearUsuario()" uniqueid="[engine:junit-jupiter]/[class:atletas.AtletasApplicationTests]/[method:crearUsuario()]"/>
+  </testsuite>
+</testrun>
